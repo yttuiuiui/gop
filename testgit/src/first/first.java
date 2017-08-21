@@ -2,10 +2,11 @@ package first;
 
 public class first {
      public static void main(String[] args) {
-	     System.out.println("Ğ¡ÃûÊÇ¸ö2 ±È");
+	     System.out.println("å°åæ˜¯ä¸ª2 æ¯”");
 	     System.out.println("sdfsdfds");
-	     System.out.println("Ê¹µÃ·¢´ïÊ¡·İ");
-	     System.out.println("Ë¹µÙ·ÒÊÇ·¶µÂÈø·Ş·ŞµØËµ°¢·²´ïËê");
-	     System.out.println("Ë¹µÙ·ÒÊÇ");
+	     System.out.println("ä½¿å¾—å‘è¾¾çœä»½");
+	     System.out.println("æ–¯è’‚èŠ¬æ˜¯èŒƒå¾·è¨å¿¿å¿¿åœ°è¯´é˜¿å‡¡è¾¾å²");
+	     System.out.println("æ–¯è’‚èŠ¬æ˜¯");
+	      System.out.println("ä¸€åªè¾¾èŠ¬å¥‡"); 
 	}
 }
